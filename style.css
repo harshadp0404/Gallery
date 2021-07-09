@@ -1,0 +1,45 @@
+body{
+text-align: center;
+}
+h1{
+font-size: 21;
+font-family: sans-serif;
+color: red;
+}
+#Games{
+width: 100%;
+height: 800px;
+background-color: lightblue;
+}
+#App{
+background-color: lightseagreen;
+width: 100%;
+height: 800px;
+}
+#chatbot{
+background-color:lightcyan
+width: 100%;
+height: 800px;
+}
+.container
+{
+    text-align: center;
+}
+#myCarouse2
+{
+    background-color: red;
+}
+
+#myCarouse2 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner h3
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
